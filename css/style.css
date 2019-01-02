@@ -328,3 +328,24 @@ background-color: #41B883;
 .text-white {
     color: white;
 }
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.contact {
+    font-size: 20px;
+}
+
+a.magenta:hover {
+    color: magenta;
+}
+
+a.aquamarine:hover {
+    color: #068587;
+}
+
+a.blue:hover {
+    color: blue;
+}
