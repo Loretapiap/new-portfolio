@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function(){
   Typed.new('.intro-text', {
-    strings: ["^600 Lorena.", "^600 una Front end Developer.", "^1000 una UI/UX Designer.", "^600 una optimizadora de SEO onPage"],
+    strings: ["^600 Lorena.", "^600 una Front end Developer.", "^1000 UI Designer.", "^600 optimizadora de SEO onPage"],
     typeSpeed: 0,
     startDelay: 1000,
     loop: true
